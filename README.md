@@ -39,7 +39,7 @@ const htmlContent = generateMailHTML(template);
 // Enviar el email
 sendEmail({
     to: "usuario@email.com",
-    subject: "¡Bienvenido a Pley!",
+    subject: "¡Bienvenido!",
     html: htmlContent
 });
 ```
