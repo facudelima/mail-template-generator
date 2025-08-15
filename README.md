@@ -1,4 +1,4 @@
-# Template de Mail - Pley
+# Template de Mail
 
 Este proyecto es una **herramienta de trabajo** que desarrollé para simplificar y automatizar una tarea recurrente en mi trabajo en **Toolbox**. Convierte el archivo `index.html` en un template de mail y lo devuelve en formato JSON, facilitando la generación y gestión de plantillas de correo electrónico.
 
