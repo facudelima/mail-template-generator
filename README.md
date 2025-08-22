@@ -108,7 +108,7 @@ Convierte string HTML a objeto template JSON.
 ### Para Desarrolladores
 - Crear templates HTML una vez
 - Convertir automáticamente a JSON para BD
-- Generar HTML final al momento del envío
+- Generar HTML final al momento del envío 
 
 ### Para el Sistema
 - Almacenar templates eficientemente en BD
