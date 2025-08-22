@@ -1,0 +1,25 @@
+{
+  "name": "mail-template-generator",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de templates de email con integración MongoDB",
+  "main": "mailTemplate.js",
+  "scripts": {
+    "start": "NODE_ENV=prod node mailTemplate.js",
+    "prod": "NODE_ENV=prod node mailTemplate.js",
+    "cert": "NODE_ENV=cert node mailTemplate.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "dotenv": "^16.3.1",
+    "readline-sync": "^1.4.10"
+  },
+  "keywords": [
+    "email",
+    "template",
+    "mongodb",
+    "html",
+    "json"
+  ],
+  "author": "Facundo Delima",
+  "license": "MIT"
+}
